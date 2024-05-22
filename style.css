@@ -1,0 +1,10 @@
+.portlet-title .caption .xyz {
+    font-size: 1em !important;
+    margin-top: 1px !important;
+    margin-right: 10px !important;
+  }
+  
+  .portlet > .portlet-title > .caption {
+      font-size: 16px !important;
+  }
+  
